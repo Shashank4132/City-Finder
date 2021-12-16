@@ -1,0 +1,11 @@
+.Section{
+    color: black;
+    margin-top: 60px;
+    font-size: 30px;
+}
+.Section h2{
+    border: 3px solid;
+    display: inline-block;
+    background-color: white;
+    margin: 30px;
+}
